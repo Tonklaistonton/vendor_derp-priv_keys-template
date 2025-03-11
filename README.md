@@ -20,5 +20,5 @@ Included `check_keys.py` script checks whether all apk/apex/capex files in the b
 
 ```
 $ ./check_keys.py ~/derp/out/target/product/lynx
-/home/ab/evolution/out/target/product/lynx/obj/ETC/com.android.apex.cts.shim.v1_prebuilt_intermediates/com.android.apex.cts.shim.apex is signed with an unknown key!
+/home/ab/derp/out/target/product/lynx/obj/ETC/com.android.apex.cts.shim.v1_prebuilt_intermediates/com.android.apex.cts.shim.apex is signed with an unknown key!
 ```
